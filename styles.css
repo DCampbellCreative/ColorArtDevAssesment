@@ -23,7 +23,7 @@ body {
 .body-photo {
   display: flex;
   background-size: cover;
-  background-image: url("/assets/banner.jpg");
+  background-image: url("assets/banner.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   min-height: 500px;
